@@ -17,7 +17,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Infrared spectroscopy](#infrared-spectroscopy)
 * [MDS spectroscopy](#mds-spectroscopy)
 * [Raman spectroscopy](#raman-spectroscopy)
-* [UV/VIS spectroscopy](#uv--vis-spectroscopy)
+* [UV/VIS spectroscopy](#uv--visible-spectroscopy)
 * [Post-processing](#post-processing)
 
 See also the list of [GitHub *spectroscopy* packages](https://github.com/topics/spectroscopy)
@@ -39,8 +39,7 @@ See also the list of [GitHub *spectroscopy* packages](https://github.com/topics/
   module of the [pyhdust](https://github.com/danmoser/pyhdust) package for multi-technique astronomical data
 - [radiospectra](https://github.com/sunpy/radiospectra): radio spectra on solar physics 
   from the [sunpy](https://github.com/sunpy/sunpy) package
-- [SpectroscoPyx](https://github.com/PlasmaPy/SpectroscoPyx): spectroscopy package  
-  of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) project
+- [SpectroscoPyx](https://github.com/PlasmaPy/SpectroscoPyx): spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) project
 
 
 ## Atmospheric Spectra
