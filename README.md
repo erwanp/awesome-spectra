@@ -11,13 +11,13 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ## Contents
 
-* [Astrophysics & astronomy spectra](#astrophysics-astronomy-spectra)
+* [Astrophysics & astronomy spectra](#astrophysics--astronomy-spectra)
 * [Atmospheric spectra](#atmospheric-spectra)
-* [FTIR & organic spectra](#ftir-organic-spectra)
+* [FTIR & organic spectra](#ftir--organic-spectra)
 * [Infrared spectroscopy](#infrared-spectroscopy)
 * [MDS spectroscopy](#mds-spectroscopy)
 * [Raman spectroscopy](#raman-spectroscopy)
-* [UV/VIS spectroscopy](#uv-vis-spectroscopy)
+* [UV/VIS spectroscopy](#uv--vis-spectroscopy)
 * [Post-processing](#post-processing)
 
 See also the list of [GitHub *spectroscopy* packages](https://github.com/topics/spectroscopy)
@@ -49,6 +49,7 @@ See also the list of [GitHub *spectroscopy* packages](https://github.com/topics/
 
 - [Py4CAtS](https://atmos.eoc.dlr.de/tools/Py4CAtS/) (software): Python code for
   Computational ATmospheric Spectroscopy (HITRAN, Geisa)
+- [BART](https://github.com/exosports/BART) (GitHub): Bayesian Atmospheric Radiative Transfer fitting code 
 - [GARLIC](https://www.sciencedirect.com/science/article/pii/S0022407313004731?via%3Dihub) (software):
   Fortran line by line code
 - [MODTRAN](http://modtran.spectral.com/) (software): software for MODerate resolution
@@ -58,11 +59,14 @@ See also the list of [GitHub *spectroscopy* packages](https://github.com/topics/
 - [libRadtran](http://www.libradtran.org/doku.php) (software): C / Fortran
   functions and programs for calculation of solar and thermal
   radiation in the Earth\'s atmosphere
+- [PyLBLRTM](https://github.com/wblumberg/PyLBLRTM) (GitHub): Helper functions in reading/writing LBLRTM input/output files. 
 
 ## FTIR & Organic Spectra
 
+- [pyspectra](https://github.com/ibcp/pyspectra) (GitHub): Python package for working with (hyper)spectral data 
 - [Spectragryph](https://www.effemm2.de/spectragryph/index.html) (software):
   software for FTIR / organic spectroscopy
+- [specio](https://github.com/paris-saclay-cds/specio) (GitHub): Python input/output for spectroscopic files 
 
 ## Infrared Spectroscopy
 
@@ -72,6 +76,7 @@ See also the list of [GitHub *spectroscopy* packages](https://github.com/topics/
 - [radis](https://github.com/radis/radis) (GitHub): a fast line-by-line code for high-resolution infrared molecular spectra
 - [SpectraPlot](http://www.spectraplot.com/) (website): online interface to HITRAN / HITEMP / NIST data  
 - [HITRAN on the web](http://hitran.iao.ru/molecule/simlaunch) (website): online interface to HITRAN data  
+- [RadISpeC](https://github.com/BEAKH/RadISpeC) (GitHub): Radiation Interface for Matlab Spectroscopy Calculations. Uses HITRAN and HITEMP
 
 
 ## MDS Spectroscopy
