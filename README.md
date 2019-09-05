@@ -19,6 +19,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Raman spectroscopy](#raman-spectroscopy)
 * [UV/VIS spectroscopy](#uv--visible-spectroscopy)
 * [Post-processing](#post-processing)
+* [Databases](#databases)
 
 See also the list of GitHub [#spectroscopy](https://github.com/topics/spectroscopy) packages
 
@@ -179,3 +180,14 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
   : curve fitting (peak fitting) software
 
 
+## Databases
+
+*Databases for atomic and molecular spectroscopy*
+
+- [Chianti](http://www.chiantidatabase.org/): atomic line database
+- [NIST](https://www.nist.gov/pml/atomic-spectra-database): atomic line database
+- [EXOMOL](http://exomol.com/data/): Molecular Line Lists for Exoplanet and Other Atmospheres
+- [GEISA](http://cds-espri.ipsl.upmc.fr/geisa/#): atmospheric spectroscopic database 
+- [HITRAN](http://hitran.org/): high-resolution transmission molecular absorption databases for gases of the atmosphere (infrared)
+- [HITEMP](https://hitran.org/hitemp/): high temperature molecular spectroscopic database (infrared)
+- [GPRD](http://esther.ist.utl.pt/gaspar/): high-temperature plasma radiation modelling (uv/vis/infrared) 
