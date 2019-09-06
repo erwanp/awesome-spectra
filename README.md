@@ -31,33 +31,33 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 *Generate or analyse astrophysics / astronomy spectra*
 
 - [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy)
-  [![GitHub stars](https://img.shields.io/github/stars/chianti-atomic/ChiantiPy.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/chianti-atomic/ChiantiPy.svg?style=social&label=GitHub)](
   https://github.com/chianti-atomic/ChiantiPy/stargazers/)
   : python package to calculate the radiative properties of astrophysical
   plasmas based on the CHIANTI atomic database
   
 - [pyspeckit](https://github.com/pyspeckit/pyspeckit) 
-  [![GitHub stars](https://img.shields.io/github/stars/pyspeckit/pyspeckit.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/pyspeckit/pyspeckit.svg?style=social&label=GitHub)](
   https://github.com/pyspeckit/pyspeckit/stargazers/)
   : a python spectroscopic toolkit for a wide variety of astronomical instruments.
   
 - [specutil](https://github.com/astropy/specutils)
-  [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social&label=GitHub)](
   https://github.com/astropy/specutils/stargazers/) : 
   : a Python package for spectral analysis in astronomy
   
 - [spectools](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
-  [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social&label=GitHub)](
   https://github.com/danmoser/pyhdust/stargazers/)
   : spectroscopic module of the [pyhdust](https://github.com/danmoser/pyhdust) package for multi-technique astronomical data
   
 - [radiospectra](https://github.com/sunpy/radiospectra)
-  [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social&label=GitHub)](
   https://github.com/sunpy/radiospectra/stargazers/)
   : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) package
 
 - [SpectroscoPyx](https://github.com/PlasmaPy/SpectroscoPyx)
-  [![GitHub stars](https://img.shields.io/github/stars/PlasmaPy/SpectroscoPyx.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/PlasmaPy/SpectroscoPyx.svg?style=social&label=GitHub)](
   https://github.com/PlasmaPy/SpectroscoPyx/stargazers/)
   : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) project
 
@@ -71,7 +71,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
   : Python code for Computational ATmospheric Spectroscopy (HITRAN, Geisa)
   
 - [BART](https://github.com/exosports/BART)
-  [![GitHub stars](https://img.shields.io/github/stars/exosports/BART.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/exosports/BART.svg?style=social&label=GitHub)](
   https://github.com/exosports/BART/stargazers/)
   : Bayesian Atmospheric Radiative Transfer fitting code 
 
@@ -92,7 +92,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
   : C / Fortran functions and programs for calculation of solar and thermal radiation in the Earth\'s atmosphere
   
 - [PyLBLRTM](https://github.com/wblumberg/PyLBLRTM)
-  [![GitHub stars](https://img.shields.io/github/stars/wblumberg/PyLBLRTM.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/wblumberg/PyLBLRTM.svg?style=social&label=GitHub)](
   https://github.com/wblumberg/PyLBLRTM/stargazers/)
   : Helper functions in reading/writing LBLRTM input/output files. 
 
@@ -101,7 +101,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 *Generate or analyse FTIR spectra for organic spectroscopy* [#ftir](https://github.com/topics/ftir)
 
 - [pyspectra](https://github.com/ibcp/pyspectra)
-  [![GitHub stars](https://img.shields.io/github/stars/ibcp/pyspectra.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/ibcp/pyspectra.svg?style=social&label=GitHub)](
   https://github.com/ibcp/pyspectra/stargazers/)
   : Python package for working with (hyper)spectral data 
 
@@ -110,7 +110,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
   : software for FTIR / organic spectroscopy
  
 - [specio](https://github.com/paris-saclay-cds/specio)
-  [![GitHub stars](https://img.shields.io/github/stars/paris-saclay-cds/specio.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/paris-saclay-cds/specio.svg?style=social&label=GitHub)](
   https://github.com/paris-saclay-cds/specio/stargazers/)
   : Python input/output for spectroscopic files 
 
@@ -119,12 +119,12 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 *Generate or analyse infrared spectra for combustion / plasma physics applications*  [#infrared](https://github.com/topics/infrared)
 
 - [HAPI](https://github.com/hitranonline/hapi)
-  [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social&label=GitHub)](
   https://github.com/hitranonline/hapi/stargazers/)
   : HITRAN Application Programming Interface
   
 - [radis](https://github.com/radis/radis)
-  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social&label=GitHub)](
   https://github.com/radis/radis/stargazers/)
   : a fast line-by-line code for high-resolution infrared molecular spectra
 
@@ -137,7 +137,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
   : online interface to HITRAN data 
   
 - [RadISpeC](https://github.com/BEAKH/RadISpeC)
-  [![GitHub stars](https://img.shields.io/github/stars/BEAKH/RadISpeC.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/BEAKH/RadISpeC.svg?style=social&label=GitHub)](
   https://github.com/BEAKH/RadISpeC/stargazers/)
   : Radiation Interface for Matlab Spectroscopy Calculations. Uses HITRAN and HITEMP
 
@@ -153,7 +153,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 *Generate or analyse Raman spectra*  [#raman](https://github.com/topics/raman)
 
 - [rampy](https://github.com/charlesll/rampy)
-  [![GitHub stars](https://img.shields.io/github/stars/charlesll/rampy.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/charlesll/rampy.svg?style=social&label=GitHub)](
   https://github.com/charlesll/rampy/stargazers/)
   : a Python package for spectral data processing (IR, Raman, XAS\...)
 
@@ -162,7 +162,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 *Generate or analyse UV/VIS spectra (electronic states of atoms / molecules)
 
 - [scikit-spectra](https://github.com/hugadams/scikit-spectra)
-  [![GitHub stars](https://img.shields.io/github/stars/hugadams/scikit-spectra.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/hugadams/scikit-spectra.svg?style=social&label=GitHub)](
   https://github.com/hugadams/scikit-spectra/stargazers/)
   : Python pandas-based toolkit for explorative spectroscopy, in particular UVVis spectroscopic data.
 
@@ -175,7 +175,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 *general spectral analysis packages*
 
 - [fityk](https://github.com/wojdyr/fityk)
-  [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social&label=GitHub&maxAge=2592000)](
+  [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social&label=GitHub)](
   https://github.com/wojdyr/fityk/stargazers/)
   : curve fitting (peak fitting) software
 
