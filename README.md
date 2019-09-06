@@ -170,6 +170,10 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
   (software)
   : software for calculation and fitting of UV/VIS plasma emission
 
+- [SPARTAN](http://esther.ist.utl.pt/spartan/)
+  (software)
+  : software for line-by-line radiative calculation of high-temperature, low pressure plasmas
+
 ## Post-processing
 
 *general spectral analysis packages*
@@ -190,4 +194,4 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 - [GEISA](http://cds-espri.ipsl.upmc.fr/geisa/#): atmospheric spectroscopic database 
 - [HITRAN](http://hitran.org/): high-resolution transmission molecular absorption databases for gases of the atmosphere (infrared)
 - [HITEMP](https://hitran.org/hitemp/): high temperature molecular spectroscopic database (infrared)
-- [GPRD](http://esther.ist.utl.pt/gaspar/): high-temperature plasma radiation modelling (uv/vis/infrared) 
+- [GASPAR](http://esther.ist.utl.pt/gaspar/): high-temperature plasma radiation modelling (uv/vis/infrared) 
