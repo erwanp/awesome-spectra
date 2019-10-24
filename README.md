@@ -123,7 +123,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
   https://github.com/hitranonline/hapi/stargazers/)
   : HITRAN Application Programming Interface
   
-- [radis](https://github.com/radis/radis)
+- [RADIS](https://github.com/radis/radis)
   [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social&label=GitHub)](
   https://github.com/radis/radis/stargazers/)
   : a fast line-by-line code for high-resolution infrared molecular spectra
