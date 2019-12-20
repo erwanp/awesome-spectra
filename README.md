@@ -83,6 +83,11 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
   (software)
   : software for MODerate resolution atmospheric TRANsmission
   
+- [lowtran](https://github.com/space-physics/lowtran)
+  [![GitHub stars](https://img.shields.io/github/stars/space-physics/lowtran.svg?style=social&label=GitHub)](
+  https://github.com/space-physics/lowtran/stargazers/)
+  : LOWTRAN atmospheric absorption extinction, scatter and irradiance model--in Python and Matlab 
+  
 - [LBLRTM](http://rtweb.aer.com/lblrtm_code.html)
   (software)
   : Line-by-line calculations of atmospheric fluxes and cooling rates
