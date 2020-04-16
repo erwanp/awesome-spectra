@@ -1,12 +1,6 @@
 # awesome-spectra  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🌈 A collaborative list of awesome software for spectroscopy. Feel free to contribute!
-
-Greatly inspired by 🌌 [awesome-physics](https://github.com/wbierbower/awesome-physics). Check there too!
-
-## Contributing
-
-Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you for taking the time to consider contributing!
+🌈 A collaborative list of awesome software for spectroscopy. Feel free to [contribute](./CONTRIBUTING.md)
 
 
 ## Contents
