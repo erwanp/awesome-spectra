@@ -15,7 +15,12 @@
 * [Post-processing](#post-processing)
 * [Databases](#databases)
 
-See also the list of GitHub [#spectroscopy](https://github.com/topics/spectroscopy) packages
+Other ways to find spectroscopy software:
+
+* Explore GitHub [#spectroscopy](https://github.com/topics/spectroscopy) packages tagged with "spectroscopy".
+* [FOSS for Spectroscopy](https://bryanhanson.github.io/FOSS4Spectroscopy/) overlaps with this list in part, but presents the options in a slightly different format.
+
+
 
 
 ---
@@ -29,22 +34,22 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
   https://github.com/chianti-atomic/ChiantiPy/stargazers/)
   : python package to calculate the radiative properties of astrophysical
   plasmas based on the CHIANTI atomic database
-  
-- [pyspeckit](https://github.com/pyspeckit/pyspeckit) 
+
+- [pyspeckit](https://github.com/pyspeckit/pyspeckit)
   [![GitHub stars](https://img.shields.io/github/stars/pyspeckit/pyspeckit.svg?style=social&label=GitHub)](
   https://github.com/pyspeckit/pyspeckit/stargazers/)
   : a python spectroscopic toolkit for a wide variety of astronomical instruments.
-  
+
 - [specutil](https://github.com/astropy/specutils)
   [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social&label=GitHub)](
-  https://github.com/astropy/specutils/stargazers/) : 
+  https://github.com/astropy/specutils/stargazers/) :
   : a Python package for spectral analysis in astronomy
-  
+
 - [spectools](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
   [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social&label=GitHub)](
   https://github.com/danmoser/pyhdust/stargazers/)
   : spectroscopic module of the [pyhdust](https://github.com/danmoser/pyhdust) package for multi-technique astronomical data
-  
+
 - [radiospectra](https://github.com/sunpy/radiospectra)
   [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social&label=GitHub)](
   https://github.com/sunpy/radiospectra/stargazers/)
@@ -63,37 +68,37 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 - [Py4CAtS](https://atmos.eoc.dlr.de/tools/Py4CAtS/)
   (software)
   : Python code for Computational ATmospheric Spectroscopy (HITRAN, Geisa)
-  
+
 - [BART](https://github.com/exosports/BART)
   [![GitHub stars](https://img.shields.io/github/stars/exosports/BART.svg?style=social&label=GitHub)](
   https://github.com/exosports/BART/stargazers/)
-  : Bayesian Atmospheric Radiative Transfer fitting code 
+  : Bayesian Atmospheric Radiative Transfer fitting code
 
 - [GARLIC](https://www.sciencedirect.com/science/article/pii/S0022407313004731?via%3Dihub)
   (software)
   : Fortran line by line code
-  
+
 - [MODTRAN](http://modtran.spectral.com/)
   (software)
   : software for MODerate resolution atmospheric TRANsmission
-  
+
 - [lowtran](https://github.com/space-physics/lowtran)
   [![GitHub stars](https://img.shields.io/github/stars/space-physics/lowtran.svg?style=social&label=GitHub)](
   https://github.com/space-physics/lowtran/stargazers/)
-  : LOWTRAN atmospheric absorption extinction, scatter and irradiance model--in Python and Matlab 
-  
+  : LOWTRAN atmospheric absorption extinction, scatter and irradiance model--in Python and Matlab
+
 - [LBLRTM](http://rtweb.aer.com/lblrtm_code.html)
   (software)
   : Line-by-line calculations of atmospheric fluxes and cooling rates
-  
+
 - [libRadtran](http://www.libradtran.org/doku.php)
   (software)
   : C / Fortran functions and programs for calculation of solar and thermal radiation in the Earth\'s atmosphere
-  
+
 - [PyLBLRTM](https://github.com/wblumberg/PyLBLRTM)
   [![GitHub stars](https://img.shields.io/github/stars/wblumberg/PyLBLRTM.svg?style=social&label=GitHub)](
   https://github.com/wblumberg/PyLBLRTM/stargazers/)
-  : Helper functions in reading/writing LBLRTM input/output files. 
+  : Helper functions in reading/writing LBLRTM input/output files.
 
 ## FTIR & Organic Spectra
 
@@ -102,16 +107,16 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 - [pyspectra](https://github.com/ibcp/pyspectra)
   [![GitHub stars](https://img.shields.io/github/stars/ibcp/pyspectra.svg?style=social&label=GitHub)](
   https://github.com/ibcp/pyspectra/stargazers/)
-  : Python package for working with (hyper)spectral data 
+  : Python package for working with (hyper)spectral data
 
 - [Spectragryph](https://www.effemm2.de/spectragryph/index.html)
   (software)
   : software for FTIR / organic spectroscopy
- 
+
 - [specio](https://github.com/paris-saclay-cds/specio)
   [![GitHub stars](https://img.shields.io/github/stars/paris-saclay-cds/specio.svg?style=social&label=GitHub)](
   https://github.com/paris-saclay-cds/specio/stargazers/)
-  : Python input/output for spectroscopic files 
+  : Python input/output for spectroscopic files
 
 ## Infrared Spectroscopy
 
@@ -121,7 +126,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
   [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social&label=GitHub)](
   https://github.com/hitranonline/hapi/stargazers/)
   : HITRAN Application Programming Interface
-  
+
 - [RADIS](https://github.com/radis/radis)
   [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social&label=GitHub)](
   https://github.com/radis/radis/stargazers/)
@@ -130,11 +135,11 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 - [SpectraPlot](http://www.spectraplot.com/)
   (website)
   : online interface to HITRAN / HITEMP / NIST data  
-  
+
 - [HITRAN on the web](http://hitran.iao.ru/molecule/simlaunch)
   (website)
-  : online interface to HITRAN data 
-  
+  : online interface to HITRAN data
+
 - [RadISpeC](https://github.com/BEAKH/RadISpeC)
   [![GitHub stars](https://img.shields.io/github/stars/BEAKH/RadISpeC.svg?style=social&label=GitHub)](
   https://github.com/BEAKH/RadISpeC/stargazers/)
@@ -146,7 +151,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 - [WrightTools](https://joss.theoj.org/papers/a82637112ac3e03df961d4494bc927d4)
   (software)
   : a Python package for multidimensional spectroscopy
-  
+
 ## Raman Spectroscopy
 
 *Generate or analyse Raman spectra*  [#raman](https://github.com/topics/raman)
@@ -190,7 +195,7 @@ See also the list of GitHub [#spectroscopy](https://github.com/topics/spectrosco
 - [Chianti](http://www.chiantidatabase.org/): atomic line database
 - [NIST](https://www.nist.gov/pml/atomic-spectra-database): atomic line database
 - [EXOMOL](http://exomol.com/data/): Molecular Line Lists for Exoplanet and Other Atmospheres
-- [GEISA](http://cds-espri.ipsl.upmc.fr/geisa/#): atmospheric spectroscopic database 
+- [GEISA](http://cds-espri.ipsl.upmc.fr/geisa/#): atmospheric spectroscopic database
 - [HITRAN](http://hitran.org/): high-resolution transmission molecular absorption databases for gases of the atmosphere (infrared)
 - [HITEMP](https://hitran.org/hitemp/): high temperature molecular spectroscopic database (infrared)
-- [GASPAR](http://esther.ist.utl.pt/gaspar/): high-temperature plasma radiation modelling (uv/vis/infrared) 
+- [GASPAR](http://esther.ist.utl.pt/gaspar/): high-temperature plasma radiation modelling (uv/vis/infrared)
