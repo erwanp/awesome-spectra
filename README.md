@@ -199,3 +199,12 @@ Other ways to find spectroscopy software:
 - [HITRAN](http://hitran.org/): high-resolution transmission molecular absorption databases for gases of the atmosphere (infrared)
 - [HITEMP](https://hitran.org/hitemp/): high temperature molecular spectroscopic database (infrared)
 - [GASPAR](http://esther.ist.utl.pt/gaspar/): high-temperature plasma radiation modelling (uv/vis/infrared)
+
+## Visualization
+
+*Spectral visualizuation utilites*
+
+- [react-emission-spectra](https://github.com/Rested/react-emission-spectra)
+  [![GitHub stars](https://img.shields.io/github/stars/Rested/react-emission-spectra.svg?style=social&label=Github)](
+  https://github.com/Rested/react-emission-spectra/stargazers/)
+  set of react components for visualising atomic lines on the visible spectrum.
