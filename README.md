@@ -35,6 +35,11 @@ Other ways to find spectroscopy software:
   : python package to calculate the radiative properties of astrophysical
   plasmas based on the CHIANTI atomic database
 
+- [pyhdust](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
+  [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social&label=GitHub)](
+  https://github.com/danmoser/pyhdust/stargazers/)
+  : spectroscopic module of the [pyhdust](https://github.com/danmoser/pyhdust) package for multi-technique astronomical data
+
 - [pyspeckit](https://github.com/pyspeckit/pyspeckit)
   [![GitHub stars](https://img.shields.io/github/stars/pyspeckit/pyspeckit.svg?style=social&label=GitHub)](
   https://github.com/pyspeckit/pyspeckit/stargazers/)
@@ -44,11 +49,6 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social&label=GitHub)](
   https://github.com/astropy/specutils/stargazers/) :
   : a Python package for spectral analysis in astronomy
-
-- [spectools](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
-  [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social&label=GitHub)](
-  https://github.com/danmoser/pyhdust/stargazers/)
-  : spectroscopic module of the [pyhdust](https://github.com/danmoser/pyhdust) package for multi-technique astronomical data
 
 - [radiospectra](https://github.com/sunpy/radiospectra)
   [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social&label=GitHub)](

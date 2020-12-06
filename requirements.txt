@@ -3,22 +3,22 @@
 # Astrophysics & Astronomy Spectra
 # --------------------------------
 ChiantiPy
+pyhdust
 pyspeckit
-specutil
-spectools
+specutils
 #radiospectra # not on Pypi ?
-git+git://github.com/PlasmaPy/SpectroscopPyx.git#egg=SpectroscopPyx
+SpectroscoPyx
 # Atmospheric Spectra
 # -------------------
 #Py4CAtS # not on GitHub / PyPi
 git+git://github.com/wblumberg/PyLBLRTM.git#egg=PyLBLRTM
 # FTIR & Organic Spectra
 # ----------------------
-git+git://github.com/ibcp/pyspectra.git#egg=pyspectra
+pyspectra
 specio
 # Infrared Spectroscopy
 # ---------------------
-git+git://github.com/hitranonline/hapi.git#egg=hapi
+hitran-api # hapi 
 radis
 # MDS Spectroscopy
 # ----------------
@@ -27,6 +27,6 @@ radis
 rampy
 # UV / Visible Spectroscopy
 # -------------------------
-git+git://github.com/hugadams/scikit-spectra.git#egg=scikit-spectra
+scikit-spectra
 # Post-processing
 # ---------------
