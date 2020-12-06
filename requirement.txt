@@ -1,0 +1,32 @@
+# Python packages listed in awesome-spectra
+# =========================================
+# Astrophysics & Astronomy Spectra
+# --------------------------------
+ChiantiPy
+pyspeckit
+specutil
+spectools
+#radiospectra # not on Pypi ?
+git+git://github.com/PlasmaPy/SpectroscopPyx.git#egg=SpectroscopPyx
+# Atmospheric Spectra
+# -------------------
+#Py4CAtS # not on GitHub / PyPi
+git+git://github.com/wblumberg/PyLBLRTM.git#egg=PyLBLRTM
+# FTIR & Organic Spectra
+# ----------------------
+git+git://github.com/ibcp/pyspectra.git#egg=pyspectra
+specio
+# Infrared Spectroscopy
+# ---------------------
+git+git://github.com/hitranonline/hapi.git#egg=hapi
+radis
+# MDS Spectroscopy
+# ----------------
+# Raman Spectroscopy
+# ------------------
+rampy
+# UV / Visible Spectroscopy
+# -------------------------
+git+git://github.com/hugadams/scikit-spectra.git#egg=scikit-spectra
+# Post-processing
+# ---------------
