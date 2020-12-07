@@ -28,5 +28,8 @@ rampy
 # UV / Visible Spectroscopy
 # -------------------------
 scikit-spectra
+# Spectral inference
+# ------------------
+astrostarfish
 # Post-processing
 # ---------------
