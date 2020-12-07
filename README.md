@@ -12,6 +12,7 @@
 * [MDS spectroscopy](#mds-spectroscopy)
 * [Raman spectroscopy](#raman-spectroscopy)
 * [UV/VIS spectroscopy](#uv--visible-spectroscopy)
+* [Spectral inference](#spectral-inference)
 * [Post-processing](#post-processing)
 * [Databases](#databases)
 
@@ -177,6 +178,16 @@ Other ways to find spectroscopy software:
 - [SPARTAN](http://esther.ist.utl.pt/spartan/)
   (software)
   : software for line-by-line radiative calculation of high-temperature, low pressure plasmas
+
+## Spectral inference
+
+*and fitting*
+
+- [Starfish](https://github.com/iancze/Starfish)
+  [![GitHub stars](https://img.shields.io/github/stars/iancze/Starfish.svg?style=social&label=GitHub)](
+  https://github.com/iancze/Starfish/stargazers/)
+  : Tools for Flexible Spectroscopic Inference
+
 
 ## Post-processing
 
