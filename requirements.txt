@@ -3,6 +3,7 @@
 # Astrophysics & Astronomy Spectra
 # --------------------------------
 ChiantiPy
+-e git://github.com/exoclime/helios.git#egg=helios
 pyhdust
 pyspeckit
 specutils
@@ -11,14 +12,15 @@ SpectroscoPyx
 # Atmospheric Spectra
 # -------------------
 #Py4CAtS # not on GitHub / PyPi
-git+git://github.com/wblumberg/PyLBLRTM.git#egg=PyLBLRTM
+-e git://github.com/wblumberg/PyLBLRTM.git#egg=PyLBLRTM
 # FTIR & Organic Spectra
 # ----------------------
 pyspectra
 specio
 # Infrared Spectroscopy
 # ---------------------
-hitran-api # hapi 
+hitran-api # hapi
+-e git://github.com/exoclime/HELIOS-K.git#egg=helios-k
 radis
 # MDS Spectroscopy
 # ----------------
