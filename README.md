@@ -36,6 +36,11 @@ Other ways to find spectroscopy software:
   : python package to calculate the radiative properties of astrophysical
   plasmas based on the CHIANTI atomic database
 
+- [HELIOS](https://github.com/exoclime/helios)
+  [![GitHub stars](https://img.shields.io/github/stars/exoclime/helios.svg?style=social&label=GitHub)](
+  https://github.com/exoclime/helios/stargazers/)
+  : GPU-Accelerated Radiative Transfer Code For Exoplanetary Atmospheres
+
 - [pyhdust](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
   [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social&label=GitHub)](
   https://github.com/danmoser/pyhdust/stargazers/)
@@ -127,6 +132,11 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social&label=GitHub)](
   https://github.com/hitranonline/hapi/stargazers/)
   : HITRAN Application Programming Interface
+
+- [HELIOS-K](https://github.com/exoclime/HELIOS-K)
+  [![GitHub stars](https://img.shields.io/github/stars/exoclime/HELIOS-K.svg?style=social&label=GitHub)](
+  https://github.com/exoclime/HELIOS-K/stargazers/)
+  : Ultrafast opacity calculator for exoplanetary atmospheres.
 
 - [RADIS](https://github.com/radis/radis)
   [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social&label=GitHub)](
