@@ -31,38 +31,38 @@ Other ways to find spectroscopy software:
 *Generate or analyse astrophysics / astronomy spectra*
 
 - [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy)
-  [![GitHub stars](https://img.shields.io/github/stars/chianti-atomic/ChiantiPy.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/chianti-atomic/ChiantiPy.svg?style=social&label=)](
   https://github.com/chianti-atomic/ChiantiPy/stargazers/)
   : python package to calculate the radiative properties of astrophysical
   plasmas based on the CHIANTI atomic database
 
 - [HELIOS](https://github.com/exoclime/helios)
-  [![GitHub stars](https://img.shields.io/github/stars/exoclime/helios.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/exoclime/helios.svg?style=social&label=)](
   https://github.com/exoclime/helios/stargazers/)
   : GPU-Accelerated Radiative Transfer Code For Exoplanetary Atmospheres
 
 - [pyhdust](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
-  [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social&label=)](
   https://github.com/danmoser/pyhdust/stargazers/)
   : spectroscopic module of the [pyhdust](https://github.com/danmoser/pyhdust) package for multi-technique astronomical data
 
 - [pyspeckit](https://github.com/pyspeckit/pyspeckit)
-  [![GitHub stars](https://img.shields.io/github/stars/pyspeckit/pyspeckit.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/pyspeckit/pyspeckit.svg?style=social&label=)](
   https://github.com/pyspeckit/pyspeckit/stargazers/)
   : a python spectroscopic toolkit for a wide variety of astronomical instruments.
 
 - [specutil](https://github.com/astropy/specutils)
-  [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social&label=)](
   https://github.com/astropy/specutils/stargazers/) :
   : a Python package for spectral analysis in astronomy
 
 - [radiospectra](https://github.com/sunpy/radiospectra)
-  [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social&label=)](
   https://github.com/sunpy/radiospectra/stargazers/)
   : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) package
 
 - [SpectroscoPyx](https://github.com/PlasmaPy/SpectroscoPyx)
-  [![GitHub stars](https://img.shields.io/github/stars/PlasmaPy/SpectroscoPyx.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/PlasmaPy/SpectroscoPyx.svg?style=social&label=)](
   https://github.com/PlasmaPy/SpectroscoPyx/stargazers/)
   : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) project
 
@@ -76,7 +76,7 @@ Other ways to find spectroscopy software:
   : Python code for Computational ATmospheric Spectroscopy (HITRAN, Geisa)
 
 - [BART](https://github.com/exosports/BART)
-  [![GitHub stars](https://img.shields.io/github/stars/exosports/BART.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/exosports/BART.svg?style=social&label=)](
   https://github.com/exosports/BART/stargazers/)
   : Bayesian Atmospheric Radiative Transfer fitting code
 
@@ -89,7 +89,7 @@ Other ways to find spectroscopy software:
   : software for MODerate resolution atmospheric TRANsmission
 
 - [lowtran](https://github.com/space-physics/lowtran)
-  [![GitHub stars](https://img.shields.io/github/stars/space-physics/lowtran.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/space-physics/lowtran.svg?style=social&label=)](
   https://github.com/space-physics/lowtran/stargazers/)
   : LOWTRAN atmospheric absorption extinction, scatter and irradiance model--in Python and Matlab
 
@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : C / Fortran functions and programs for calculation of solar and thermal radiation in the Earth\'s atmosphere
 
 - [PyLBLRTM](https://github.com/wblumberg/PyLBLRTM)
-  [![GitHub stars](https://img.shields.io/github/stars/wblumberg/PyLBLRTM.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/wblumberg/PyLBLRTM.svg?style=social&label=)](
   https://github.com/wblumberg/PyLBLRTM/stargazers/)
   : Helper functions in reading/writing LBLRTM input/output files.
 
@@ -111,7 +111,7 @@ Other ways to find spectroscopy software:
 *Generate or analyse FTIR spectra for organic spectroscopy* [#ftir](https://github.com/topics/ftir)
 
 - [pyspectra](https://github.com/ibcp/pyspectra)
-  [![GitHub stars](https://img.shields.io/github/stars/ibcp/pyspectra.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/ibcp/pyspectra.svg?style=social&label=)](
   https://github.com/ibcp/pyspectra/stargazers/)
   : Python package for working with (hyper)spectral data
 
@@ -120,7 +120,7 @@ Other ways to find spectroscopy software:
   : software for FTIR / organic spectroscopy
 
 - [specio](https://github.com/paris-saclay-cds/specio)
-  [![GitHub stars](https://img.shields.io/github/stars/paris-saclay-cds/specio.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/paris-saclay-cds/specio.svg?style=social&label=)](
   https://github.com/paris-saclay-cds/specio/stargazers/)
   : Python input/output for spectroscopic files
 
@@ -129,17 +129,17 @@ Other ways to find spectroscopy software:
 *Generate or analyse infrared spectra for combustion / plasma physics applications*  [#infrared](https://github.com/topics/infrared)
 
 - [HAPI](https://github.com/hitranonline/hapi)
-  [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social&label=)](
   https://github.com/hitranonline/hapi/stargazers/)
   : HITRAN Application Programming Interface
 
 - [HELIOS-K](https://github.com/exoclime/HELIOS-K)
-  [![GitHub stars](https://img.shields.io/github/stars/exoclime/HELIOS-K.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/exoclime/HELIOS-K.svg?style=social&label=)](
   https://github.com/exoclime/HELIOS-K/stargazers/)
   : Ultrafast opacity calculator for exoplanetary atmospheres.
 
 - [RADIS](https://github.com/radis/radis)
-  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social&label=)](
   https://github.com/radis/radis/stargazers/)
   : a fast line-by-line code for high-resolution infrared molecular spectra
 
@@ -152,7 +152,7 @@ Other ways to find spectroscopy software:
   : online interface to HITRAN data
 
 - [RadISpeC](https://github.com/BEAKH/RadISpeC)
-  [![GitHub stars](https://img.shields.io/github/stars/BEAKH/RadISpeC.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/BEAKH/RadISpeC.svg?style=social&label=)](
   https://github.com/BEAKH/RadISpeC/stargazers/)
   : Radiation Interface for Matlab Spectroscopy Calculations. Uses HITRAN and HITEMP
 
@@ -168,7 +168,7 @@ Other ways to find spectroscopy software:
 *Generate or analyse Raman spectra*  [#raman](https://github.com/topics/raman)
 
 - [rampy](https://github.com/charlesll/rampy)
-  [![GitHub stars](https://img.shields.io/github/stars/charlesll/rampy.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/charlesll/rampy.svg?style=social&label=)](
   https://github.com/charlesll/rampy/stargazers/)
   : a Python package for spectral data processing (IR, Raman, XAS\...)
 
@@ -177,7 +177,7 @@ Other ways to find spectroscopy software:
 *Generate or analyse UV/VIS spectra (electronic states of atoms / molecules)
 
 - [scikit-spectra](https://github.com/hugadams/scikit-spectra)
-  [![GitHub stars](https://img.shields.io/github/stars/hugadams/scikit-spectra.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/hugadams/scikit-spectra.svg?style=social&label=)](
   https://github.com/hugadams/scikit-spectra/stargazers/)
   : Python pandas-based toolkit for explorative spectroscopy, in particular UVVis spectroscopic data.
 
@@ -194,7 +194,7 @@ Other ways to find spectroscopy software:
 *and fitting*
 
 - [Starfish](https://github.com/iancze/Starfish)
-  [![GitHub stars](https://img.shields.io/github/stars/iancze/Starfish.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/iancze/Starfish.svg?style=social&label=)](
   https://github.com/iancze/Starfish/stargazers/)
   : Tools for Flexible Spectroscopic Inference
 
@@ -204,7 +204,7 @@ Other ways to find spectroscopy software:
 *general spectral analysis packages*
 
 - [fityk](https://github.com/wojdyr/fityk)
-  [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social&label=GitHub)](
+  [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social&label=)](
   https://github.com/wojdyr/fityk/stargazers/)
   : curve fitting (peak fitting) software
 
@@ -226,6 +226,6 @@ Other ways to find spectroscopy software:
 *Spectral visualizuation utilites*
 
 - [react-emission-spectra](https://github.com/Rested/react-emission-spectra)
-  [![GitHub stars](https://img.shields.io/github/stars/Rested/react-emission-spectra.svg?style=social&label=Github)](
+  [![GitHub stars](https://img.shields.io/github/stars/Rested/react-emission-spectra.svg?style=social&label=)](
   https://github.com/Rested/react-emission-spectra/stargazers/)
   set of react components for visualising atomic lines on the visible spectrum.
