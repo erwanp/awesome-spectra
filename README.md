@@ -148,8 +148,12 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/paris-saclay-cds/specio.svg?style=social&label=)](
   https://github.com/paris-saclay-cds/specio/stargazers/)
   : Interface to read hypersectral data
-  
-  
+
+- [lightr](https://github.com/ropensci/lightr)
+  [![GitHub stars](https://img.shields.io/github/stars/ropensci/lightr.svg?style=social&label=)](
+  https://github.com/ropensci/lightr/stargazers)
+  : Import UV/VIS spectral data and related metadata in R
+
 ## Infrared Spectroscopy
 
 *Generate or analyse infrared spectra for combustion / plasma physics applications*  [#infrared](https://github.com/topics/infrared)
@@ -202,7 +206,10 @@ Other ways to find spectroscopy software:
   (software)
   : software for line-by-line radiative calculation of high-temperature, low pressure plasmas
 
-
+- [pavo](https://github.com/rmaia/pavo)
+  [![GitHub stars](https://img.shields.io/github/stars/rmaia/pavo.svg?style=social&label=)](
+  https://github.com/rmaia/pavo/stargazers/)
+  : Perceptual Analysis, Visualization and Organization of Spectral Colour Data in R
 
 ## Spectral inference
 
