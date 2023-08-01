@@ -1,5 +1,7 @@
 # awesome-spectra  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![image](https://github.com/erwanp/awesome-spectra/assets/16088743/9f172215-c2ec-4049-b46c-90fbdb00f8c7)
+
 🌈 A collaborative list of awesome software for spectroscopy. Feel free to [contribute](./CONTRIBUTING.md)
 
 
