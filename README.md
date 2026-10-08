@@ -254,3 +254,4 @@ Other ways to find spectroscopy software:
   https://github.com/Rested/react-emission-spectra/stargazers/)
   set of react components for visualising atomic lines on the visible spectrum.
 - [SpectraViewer](https://github.com/zsolt-hidasi/SpectraViewer): lightweight open-source spectrum browser for Bruker OPUS, JCAMP-DX, and DPT files.
+- [Signum](https://chempirical.com/signum/) (website): free in-browser viewer for NMR, IR and UV-Vis spectra (JCAMP-DX, SPC, CSV) with peak picking, ¹H integration, baseline correction and overlays; files are read locally, nothing is uploaded.
