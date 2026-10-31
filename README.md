@@ -227,6 +227,9 @@ Other ways to find spectroscopy software:
 
 *general spectral analysis packages*
 
+- [CurveMole](https://github.com/SebRoLENS/curvemole)
+  : desktop curve and peak fitting with custom models, parameter links, global fitting, and Python/CLI/YAML interfaces (Windows, Linux, macOS).
+
 - [fityk](https://github.com/wojdyr/fityk)
   [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social&label=)](
   https://github.com/wojdyr/fityk/stargazers/)
